@@ -1,0 +1,46 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Command\**" />
+    <Compile Remove="DTO\**" />
+    <Compile Remove="Extensions\**" />
+    <EmbeddedResource Remove="Command\**" />
+    <EmbeddedResource Remove="DTO\**" />
+    <EmbeddedResource Remove="Extensions\**" />
+    <None Remove="Command\**" />
+    <None Remove="DTO\**" />
+    <None Remove="Extensions\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
+    <PackageReference Include="DotNetCore.EntityFrameworkCore" Version="18.7.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.Authorization" Version="8.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.4.1" />
+    <PackageReference Include="Microsoft.JSInterop" Version="8.0.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Migrations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nAiCWlF3svU6LHnEUbuUTTdtw44R+Sh8C43DG3spdittmwDoMYOLfsqIT28BoMSzVpqywV+5hcIk0maD5SI6yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\수협시스템관리자Common\\수협시스템관리자Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0\\communitytoolkit.mvvm.8.2.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

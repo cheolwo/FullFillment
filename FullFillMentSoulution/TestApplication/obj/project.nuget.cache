@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ZEZg4w4KkVZ/IETDjdPEM/apailkMNKRVKAEipAb3ua4uyPn3nHcMfcnk+W5fGp1Z4vBrmZlHLIZRgpfVXrCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\TestApplication\\TestApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

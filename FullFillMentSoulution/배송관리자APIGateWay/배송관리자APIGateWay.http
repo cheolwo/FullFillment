@@ -1,0 +1,6 @@
+@배송관리자APIGateWay_HostAddress = http://localhost:5199
+
+GET {{배송관리자APIGateWay_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
