@@ -11,8 +11,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "계정Common", "IdentityCom
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityServerSample", "IdentityServerSample\IdentityServerSample.csproj", "{4CF0D87F-B6A6-44B0-A8A2-EB7C956C9F47}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "시스템관리자App", "FullFillmentManager\시스템관리자App.csproj", "{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "수협Common", "KoreaCommon\수협Common.csproj", "{995E7327-FBD9-48B3-9F8D-C6FBCD0CC7E3}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "Common\Common.csproj", "{6B8F43A9-9772-490D-A7BD-483D0DF6D05F}"
@@ -55,13 +53,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "판매QueryServer", "판매
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "판매Server", "판매Server\판매Server.csproj", "{99F0B8CA-21AC-4369-857B-58F063603E6E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "판매자WebApp", "판매자WebApp\판매자WebApp.csproj", "{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{5A7F5FD4-D1C8-408B-AD84-0F74E4E360DB}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mobile", "Mobile", "{20E37C5F-CCB0-4BA1-A762-91933EBD5DDB}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "사용자App", "사용자App\사용자App.csproj", "{E7313CD0-180E-4F25-AF33-52371F3BBB26}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModuleTest", "ModuleTest\ModuleTest.csproj", "{76C0D1AF-4754-46BB-AAB9-A7E2D9F134D0}"
 EndProject
@@ -73,69 +65,71 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "중개Server", "중개Serve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "배송Server", "배송Server\배송Server.csproj", "{CC44674F-5032-48DA-A025-97BE243BE00A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "배송관리자APIGateWay", "배송관리자APIGateWay\배송관리자APIGateWay.csproj", "{A2E25AB7-538D-4066-BD27-3981522297B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "배송관리자APIGateWay", "배송관리자APIGateWay\배송관리자APIGateWay.csproj", "{A2E25AB7-538D-4066-BD27-3981522297B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "중개관리자APIGateWay", "중개관리자APIGateWay\중개관리자APIGateWay.csproj", "{D8D1BE79-7505-4EFE-BEA8-D9A6F940A8B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "중개관리자APIGateWay", "중개관리자APIGateWay\중개관리자APIGateWay.csproj", "{D8D1BE79-7505-4EFE-BEA8-D9A6F940A8B0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "주문자", "주문자", "{9CE682FD-C98B-4EE3-BFCC-DD337420A310}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "판매자", "판매자", "{8997FFFD-912D-4590-B079-DB040A338664}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "판매자App", "판매자App\판매자App\판매자App.csproj", "{E825C903-1EA3-4295-B6FB-2AE56ECF85DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "판매자App", "판매자App\판매자App\판매자App.csproj", "{E825C903-1EA3-4295-B6FB-2AE56ECF85DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "판매자App.Android", "판매자App\판매자App.Android\판매자App.Android.csproj", "{051A46A0-4D74-4988-AEEB-1E566E695A03}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "판매자App.Android", "판매자App\판매자App.Android\판매자App.Android.csproj", "{051A46A0-4D74-4988-AEEB-1E566E695A03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "판매자App.Desktop", "판매자App\판매자App.Desktop\판매자App.Desktop.csproj", "{F4911B41-4BFA-4F84-9886-8C8679CCB80D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "판매자App.Desktop", "판매자App\판매자App.Desktop\판매자App.Desktop.csproj", "{F4911B41-4BFA-4F84-9886-8C8679CCB80D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "판매자App.iOS", "판매자App\판매자App.iOS\판매자App.iOS.csproj", "{F4736B8C-131B-4299-8026-4B6F465B95BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "판매자App.iOS", "판매자App\판매자App.iOS\판매자App.iOS.csproj", "{F4736B8C-131B-4299-8026-4B6F465B95BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "판매자App.Browser", "판매자App\판매자App.Browser\판매자App.Browser.csproj", "{701AFB52-E6B6-4AF4-B3FB-43B6C3BD0BC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "판매자App.Browser", "판매자App\판매자App.Browser\판매자App.Browser.csproj", "{701AFB52-E6B6-4AF4-B3FB-43B6C3BD0BC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "주문자App", "주문자App\주문자App\주문자App.csproj", "{6133B5EA-82A6-4486-8929-20554FAB2CBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "주문자App", "주문자App\주문자App\주문자App.csproj", "{6133B5EA-82A6-4486-8929-20554FAB2CBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "주문자App.Android", "주문자App\주문자App.Android\주문자App.Android.csproj", "{86A762A3-18ED-4CC3-89C9-8E8FEB3E25BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "주문자App.Android", "주문자App\주문자App.Android\주문자App.Android.csproj", "{86A762A3-18ED-4CC3-89C9-8E8FEB3E25BA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "주문자App.Desktop", "주문자App\주문자App.Desktop\주문자App.Desktop.csproj", "{435E401A-C2C5-49C3-BB20-F6248A4FBA1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "주문자App.Desktop", "주문자App\주문자App.Desktop\주문자App.Desktop.csproj", "{435E401A-C2C5-49C3-BB20-F6248A4FBA1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "주문자App.iOS", "주문자App\주문자App.iOS\주문자App.iOS.csproj", "{1B22473E-C0A5-4800-892C-2DEE695D9E7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "주문자App.iOS", "주문자App\주문자App.iOS\주문자App.iOS.csproj", "{1B22473E-C0A5-4800-892C-2DEE695D9E7B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "주문자App.Browser", "주문자App\주문자App.Browser\주문자App.Browser.csproj", "{42E9F652-A4B1-4C7B-9D48-0EDA548C449C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "주문자App.Browser", "주문자App\주문자App.Browser\주문자App.Browser.csproj", "{42E9F652-A4B1-4C7B-9D48-0EDA548C449C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "창고관리자", "창고관리자", "{70E7F207-11C8-47D7-AB9F-C95EB33A61FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "창고관리자App", "창고관리자App\창고관리자App\창고관리자App.csproj", "{E8E67120-72F0-4FEA-99C1-8AE65BBA052E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "창고관리자App", "창고관리자App\창고관리자App\창고관리자App.csproj", "{E8E67120-72F0-4FEA-99C1-8AE65BBA052E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "창고관리자App.Android", "창고관리자App\창고관리자App.Android\창고관리자App.Android.csproj", "{4B0125B5-57C5-4A0F-926A-FAB1F34B151E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "창고관리자App.Android", "창고관리자App\창고관리자App.Android\창고관리자App.Android.csproj", "{4B0125B5-57C5-4A0F-926A-FAB1F34B151E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "창고관리자App.Desktop", "창고관리자App\창고관리자App.Desktop\창고관리자App.Desktop.csproj", "{FF8583D0-C87F-4FFE-A391-A801F0E3D500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "창고관리자App.Desktop", "창고관리자App\창고관리자App.Desktop\창고관리자App.Desktop.csproj", "{FF8583D0-C87F-4FFE-A391-A801F0E3D500}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "창고관리자App.iOS", "창고관리자App\창고관리자App.iOS\창고관리자App.iOS.csproj", "{01335DB4-6F63-4FDA-8A78-06EBF91E3CD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "창고관리자App.iOS", "창고관리자App\창고관리자App.iOS\창고관리자App.iOS.csproj", "{01335DB4-6F63-4FDA-8A78-06EBF91E3CD3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "창고관리자App.Browser", "창고관리자App\창고관리자App.Browser\창고관리자App.Browser.csproj", "{BA033657-6018-498C-A46B-F5565A648D6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "창고관리자App.Browser", "창고관리자App\창고관리자App.Browser\창고관리자App.Browser.csproj", "{BA033657-6018-498C-A46B-F5565A648D6A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "배송관리자", "배송관리자", "{2BFBF5E7-FC8D-4343-9C51-2F9F06F73346}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "배송관리자App", "배송관리자App\배송관리자App\배송관리자App.csproj", "{2F0C5188-ABC4-4B6B-9F5D-29DC647C61B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "배송관리자App", "배송관리자App\배송관리자App\배송관리자App.csproj", "{2F0C5188-ABC4-4B6B-9F5D-29DC647C61B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "배송관리자App.Android", "배송관리자App\배송관리자App.Android\배송관리자App.Android.csproj", "{CA21F3DE-BFF1-4038-B1BF-099879531D5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "배송관리자App.Android", "배송관리자App\배송관리자App.Android\배송관리자App.Android.csproj", "{CA21F3DE-BFF1-4038-B1BF-099879531D5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "배송관리자App.Desktop", "배송관리자App\배송관리자App.Desktop\배송관리자App.Desktop.csproj", "{6AD6FA90-A5D1-4BE6-BC2F-3A08D0962F15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "배송관리자App.Desktop", "배송관리자App\배송관리자App.Desktop\배송관리자App.Desktop.csproj", "{6AD6FA90-A5D1-4BE6-BC2F-3A08D0962F15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "배송관리자App.iOS", "배송관리자App\배송관리자App.iOS\배송관리자App.iOS.csproj", "{5ABA3CD0-1D99-432C-82A7-322BE0F64713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "배송관리자App.iOS", "배송관리자App\배송관리자App.iOS\배송관리자App.iOS.csproj", "{5ABA3CD0-1D99-432C-82A7-322BE0F64713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "배송관리자App.Browser", "배송관리자App\배송관리자App.Browser\배송관리자App.Browser.csproj", "{84FA9822-969E-4A62-BD1D-3F6A9D4294E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "배송관리자App.Browser", "배송관리자App\배송관리자App.Browser\배송관리자App.Browser.csproj", "{84FA9822-969E-4A62-BD1D-3F6A9D4294E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "중개자", "중개자", "{46ADB039-1AF1-4ED1-A0C3-1184402A6435}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "중개관리자App", "중개관리자App\중개관리자App\중개관리자App.csproj", "{0639EAC8-C1B8-4313-8A05-3433CF702C18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "중개관리자App", "중개관리자App\중개관리자App\중개관리자App.csproj", "{0639EAC8-C1B8-4313-8A05-3433CF702C18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "중개관리자App.Android", "중개관리자App\중개관리자App.Android\중개관리자App.Android.csproj", "{697A3BAF-421C-4216-B9C5-8002FEF35E61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "중개관리자App.Android", "중개관리자App\중개관리자App.Android\중개관리자App.Android.csproj", "{697A3BAF-421C-4216-B9C5-8002FEF35E61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "중개관리자App.Desktop", "중개관리자App\중개관리자App.Desktop\중개관리자App.Desktop.csproj", "{22EF4F43-306A-4A92-A68C-38040EED0FF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "중개관리자App.Desktop", "중개관리자App\중개관리자App.Desktop\중개관리자App.Desktop.csproj", "{22EF4F43-306A-4A92-A68C-38040EED0FF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "중개관리자App.iOS", "중개관리자App\중개관리자App.iOS\중개관리자App.iOS.csproj", "{586FEBD5-6F79-4268-BEA8-A5B059CE8D00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "중개관리자App.iOS", "중개관리자App\중개관리자App.iOS\중개관리자App.iOS.csproj", "{586FEBD5-6F79-4268-BEA8-A5B059CE8D00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "중개관리자App.Browser", "중개관리자App\중개관리자App.Browser\중개관리자App.Browser.csproj", "{0E02BCD4-747D-4CA8-A3D3-2392DF89E4AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "중개관리자App.Browser", "중개관리자App\중개관리자App.Browser\중개관리자App.Browser.csproj", "{0E02BCD4-747D-4CA8-A3D3-2392DF89E4AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{5FDFB1F8-A958-457C-933B-DB545A35DE8D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,18 +189,6 @@ Global
 		{4CF0D87F-B6A6-44B0-A8A2-EB7C956C9F47}.Release|iPhone.Build.0 = Release|Any CPU
 		{4CF0D87F-B6A6-44B0-A8A2-EB7C956C9F47}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{4CF0D87F-B6A6-44B0-A8A2-EB7C956C9F47}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Release|iPhone.Build.0 = Release|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{995E7327-FBD9-48B3-9F8D-C6FBCD0CC7E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{995E7327-FBD9-48B3-9F8D-C6FBCD0CC7E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{995E7327-FBD9-48B3-9F8D-C6FBCD0CC7E3}.Debug|iPhone.ActiveCfg = Debug|Any CPU
@@ -375,30 +357,6 @@ Global
 		{99F0B8CA-21AC-4369-857B-58F063603E6E}.Release|iPhone.Build.0 = Release|Any CPU
 		{99F0B8CA-21AC-4369-857B-58F063603E6E}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{99F0B8CA-21AC-4369-857B-58F063603E6E}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Release|iPhone.Build.0 = Release|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Debug|iPhone.ActiveCfg = Debug|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Debug|iPhone.Build.0 = Debug|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Release|iPhone.ActiveCfg = Release|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Release|iPhone.Build.0 = Release|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{76C0D1AF-4754-46BB-AAB9-A7E2D9F134D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{76C0D1AF-4754-46BB-AAB9-A7E2D9F134D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76C0D1AF-4754-46BB-AAB9-A7E2D9F134D0}.Debug|iPhone.ActiveCfg = Debug|Any CPU
@@ -843,6 +801,18 @@ Global
 		{0E02BCD4-747D-4CA8-A3D3-2392DF89E4AF}.Release|iPhone.Build.0 = Release|Any CPU
 		{0E02BCD4-747D-4CA8-A3D3-2392DF89E4AF}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{0E02BCD4-747D-4CA8-A3D3-2392DF89E4AF}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Release|iPhone.Build.0 = Release|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -852,7 +822,6 @@ Global
 		{07DAB172-3F53-4862-A9B2-8A13DF84CC2F} = {D5B9421C-4B72-4EB8-989D-73CF4EACA4B0}
 		{F40CE390-C9D3-4636-8781-2764F82E98A9} = {D5B9421C-4B72-4EB8-989D-73CF4EACA4B0}
 		{4CF0D87F-B6A6-44B0-A8A2-EB7C956C9F47} = {632A0FB2-61F1-4FF7-8986-0FA30144AC87}
-		{F95F9EDF-ADC0-447D-AC85-12ECF6442A94} = {5A7F5FD4-D1C8-408B-AD84-0F74E4E360DB}
 		{995E7327-FBD9-48B3-9F8D-C6FBCD0CC7E3} = {D5B9421C-4B72-4EB8-989D-73CF4EACA4B0}
 		{6B8F43A9-9772-490D-A7BD-483D0DF6D05F} = {48574ED2-6671-4B8C-AA90-3DA5FF968DA1}
 		{28D334EC-B04B-4DC2-B812-E011FB45E76E} = {CC04B5DD-9CB4-4A0D-86E5-FA295AFB1944}
@@ -868,10 +837,7 @@ Global
 		{BBED3765-513C-4D0B-9812-6AC0E970DB3F} = {D5B9421C-4B72-4EB8-989D-73CF4EACA4B0}
 		{03F725F6-A15C-43BA-8492-B5AA89B97B2E} = {B72202BC-9F6A-4066-954C-FC26719321B4}
 		{99F0B8CA-21AC-4369-857B-58F063603E6E} = {D7AD4DD9-FB68-47B1-A65E-164D9661A3D1}
-		{17A7A3E6-DB08-4942-91B8-B556C14F5C0C} = {B1BFAF3C-0C0F-4E4F-A7B8-BCC5790FD7C6}
-		{5A7F5FD4-D1C8-408B-AD84-0F74E4E360DB} = {B1BFAF3C-0C0F-4E4F-A7B8-BCC5790FD7C6}
 		{20E37C5F-CCB0-4BA1-A762-91933EBD5DDB} = {B1BFAF3C-0C0F-4E4F-A7B8-BCC5790FD7C6}
-		{E7313CD0-180E-4F25-AF33-52371F3BBB26} = {5A7F5FD4-D1C8-408B-AD84-0F74E4E360DB}
 		{76C0D1AF-4754-46BB-AAB9-A7E2D9F134D0} = {CC04B5DD-9CB4-4A0D-86E5-FA295AFB1944}
 		{AC88CD37-448B-4D8D-9C99-26280D77B170} = {B72202BC-9F6A-4066-954C-FC26719321B4}
 		{3CC402A9-FF6C-4780-90FE-B544442D8348} = {B72202BC-9F6A-4066-954C-FC26719321B4}
@@ -909,6 +875,7 @@ Global
 		{22EF4F43-306A-4A92-A68C-38040EED0FF1} = {46ADB039-1AF1-4ED1-A0C3-1184402A6435}
 		{586FEBD5-6F79-4268-BEA8-A5B059CE8D00} = {46ADB039-1AF1-4ED1-A0C3-1184402A6435}
 		{0E02BCD4-747D-4CA8-A3D3-2392DF89E4AF} = {46ADB039-1AF1-4ED1-A0C3-1184402A6435}
+		{5FDFB1F8-A958-457C-933B-DB545A35DE8D} = {20E37C5F-CCB0-4BA1-A762-91933EBD5DDB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CC1E29A3-F7C6-47D7-8B7E-BC99D6428EBC}

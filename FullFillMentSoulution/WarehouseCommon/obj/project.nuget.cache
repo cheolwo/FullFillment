@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KaVuIUoLy1J9QcYCHKzZf+XJHJgLHvCLCo7o7JYDpfmCr/b+00SXEQ1XlwcFvV8J96vTwhr/HlFK39jYj17B8Q==",
+  "dgSpecHash": "ee5kDsV1h0/HR4p7WuTpDenPk5QTavm7jAlUiHE2myA6StgBQwjh0Q0DYGiQiZ6JOkOE8GAMrQ4p34zz5EVNYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
@@ -63,9 +63,7 @@
     "C:\\Users\\user\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

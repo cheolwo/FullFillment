@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseServer\\창고Server.csproj": {}
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseServer\\창고Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,14 +104,6 @@
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[7.4.1, )"
-            },
-            "Xamarin.Essentials": {
-              "target": "Package",
-              "version": "[1.8.1, )"
-            },
-            "Xamarin.Forms": {
-              "target": "Package",
-              "version": "[5.0.0.2622, )"
             }
           },
           "imports": [
@@ -134,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj",
         "projectName": "계정Common",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,8 +155,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj"
+              "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj"
               }
             }
           }
@@ -242,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj",
         "projectName": "창고Common",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseCommon\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -271,8 +263,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj"
+              "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj"
               }
             }
           }
@@ -312,14 +304,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseServer\\창고Server.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseServer\\창고Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseServer\\창고Server.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseServer\\창고Server.csproj",
         "projectName": "창고Server",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseServer\\창고Server.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseServer\\창고Server.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseServer\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -341,11 +333,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj"
+              "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj"
               },
-              "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj"
+              "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\WarehouseCommon\\창고Common.csproj"
               }
             }
           }
@@ -362,15 +354,11 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[12.0.1, )"
-            },
-            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
-              "target": "Package",
-              "version": "[12.0.1, )"
+              "version": "[13.0.1, )"
             },
             "DotNetCore.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[17.52.0, )"
+              "version": "[18.7.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -378,7 +366,7 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
@@ -386,17 +374,13 @@
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[7.0.8, )"
+              "version": "[8.0.3, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[7.0.8, )"
-            },
-            "MySql.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[7.0.2, )"
+              "version": "[8.0.3, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

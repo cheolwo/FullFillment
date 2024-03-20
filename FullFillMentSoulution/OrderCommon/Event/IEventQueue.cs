@@ -1,7 +1,3 @@
-using Microsoft.EntityFrameworkCore;
-using 주문Common.Command;
-using 주문Common.Model;
-
 namespace 주문Common.Event
 {
     public interface IEvent
@@ -30,11 +26,11 @@ namespace 주문Common.Event
         {
             lock (_lock)
             {
-                _eventQueue.Enqueue(@event);
-                if (@event is Create주문Command create주문Command)
-                {
-                    Console.WriteLine(create주문Command.Name);
-                }
+                //_eventQueue.Enqueue(@event);
+                //if (@event is Create주문Command create주문Command)
+                //{
+                //    Console.WriteLine(create주문Command.Name);
+                //}
             }
 
             return Task.CompletedTask;

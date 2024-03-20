@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="ViewService\**" />
+    <EmbeddedResource Remove="ViewService\**" />
+    <None Remove="ViewService\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
     <PackageReference Include="MediatR" Version="12.2.0" />
@@ -23,7 +29,6 @@
 
   <ItemGroup>
     <Folder Include="Migrations\" />
-    <Folder Include="ViewService\" />
   </ItemGroup>
 
   <ItemGroup>

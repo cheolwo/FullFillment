@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj": {}
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,14 +104,6 @@
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[7.4.1, )"
-            },
-            "Xamarin.Essentials": {
-              "target": "Package",
-              "version": "[1.8.1, )"
-            },
-            "Xamarin.Forms": {
-              "target": "Package",
-              "version": "[5.0.0.2622, )"
             }
           },
           "imports": [
@@ -134,14 +126,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj",
         "projectName": "계정Common",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -163,8 +155,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj"
+              "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj"
               }
             }
           }
@@ -242,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj",
         "projectName": "주문Common",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderCommon\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\OrderCommon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -271,11 +263,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\Common\\Common.csproj"
+              "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\Common\\Common.csproj"
               },
-              "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj"
+              "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\IdentityCommon\\계정Common.csproj"
               }
             }
           }
@@ -349,14 +341,14 @@
         }
       }
     },
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj",
         "projectName": "주문QueryServer",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\주문QueryServer\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\주문QueryServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -378,8 +370,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj": {
-                "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj"
+              "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj": {
+                "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\OrderCommon\\주문Common.csproj"
               }
             }
           }

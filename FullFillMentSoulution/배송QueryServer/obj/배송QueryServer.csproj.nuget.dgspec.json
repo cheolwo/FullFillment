@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\배송QueryServer\\배송QueryServer.csproj": {}
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\배송QueryServer\\배송QueryServer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\배송QueryServer\\배송QueryServer.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\배송QueryServer\\배송QueryServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\배송QueryServer\\배송QueryServer.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\배송QueryServer\\배송QueryServer.csproj",
         "projectName": "배송QueryServer",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\배송QueryServer\\배송QueryServer.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\배송QueryServer\\배송QueryServer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\배송QueryServer\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\배송QueryServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1025,11 +1025,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\중개QueryServer\\중개QueryServer.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\중개QueryServer\\중개QueryServer.csproj",
       "projectName": "중개QueryServer",
-      "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\중개QueryServer\\중개QueryServer.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\중개QueryServer\\중개QueryServer.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\중개QueryServer\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\중개QueryServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

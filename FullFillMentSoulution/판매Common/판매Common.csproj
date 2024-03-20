@@ -30,7 +30,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Common\Common.csproj" />
-    <ProjectReference Include="..\OrderCommon\주문Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="QueryServer\" />
   </ItemGroup>
 
 </Project>

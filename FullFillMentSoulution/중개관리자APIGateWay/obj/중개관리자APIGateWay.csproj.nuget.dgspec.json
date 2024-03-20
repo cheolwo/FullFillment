@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\중개관리자APIGateWay\\중개관리자APIGateWay.csproj": {}
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\중개관리자APIGateWay\\중개관리자APIGateWay.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\중개관리자APIGateWay\\중개관리자APIGateWay.csproj": {
+    "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\중개관리자APIGateWay\\중개관리자APIGateWay.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\중개관리자APIGateWay\\중개관리자APIGateWay.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\중개관리자APIGateWay\\중개관리자APIGateWay.csproj",
         "projectName": "중개관리자APIGateWay",
-        "projectPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\중개관리자APIGateWay\\중개관리자APIGateWay.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\중개관리자APIGateWay\\중개관리자APIGateWay.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\중개관리자APIGateWay\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\중개관리자APIGateWay\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"

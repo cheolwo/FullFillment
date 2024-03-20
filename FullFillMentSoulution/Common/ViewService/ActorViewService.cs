@@ -29,7 +29,7 @@ namespace Common.ViewService
         }
         public async Task<List<T>?> GetToListAsync<T>(string userId, string jwtToken) where T : class
         {
-            return await _querytContext.Set<T>().GetToListAsync(userId, jwtToken);
+            return await _querytContext.Set<T>().GetToListAsync(jwtToken);
         }
         public async Task Post<T>(T t, string jwtToken) where T : class
         {

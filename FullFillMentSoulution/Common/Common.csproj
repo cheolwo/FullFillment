@@ -22,14 +22,13 @@
     <PackageReference Include="RabbitMQ.Client" Version="6.8.1" />
     <PackageReference Include="StackExchange.Redis" Version="2.7.33" />
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="7.4.1" />
-    <PackageReference Include="Xamarin.Essentials" Version="1.8.1" />
-    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2622" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="Actor\Query\" />
     <Folder Include="App\" />
     <Folder Include="CommandServer\Collector\" />
+    <Folder Include="ViewModel\" />
   </ItemGroup>
 
 </Project>

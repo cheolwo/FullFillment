@@ -19,6 +19,18 @@ namespace 주문자App.Desktop
                 .UsePlatformDetect()
                 .WithInterFont()
                 .LogToTrace()
+                .ConfigureServices(services =>
+                {
+                    services.AddSingleton<MainViewModel>();
+                    // 다른 서비스나 ViewModel을 여기에 등록할 수 있습니다.
+                })
                 .UseReactiveUI();
+        private static void ConfigureServices(IServiceCollection services)
+        {
+            // ViewModel 등록
+            services.AddSingleton<MainViewModel>();
+            services.AddSingleton<LoginViewModel>();
+            // 필요한 다른 서비스나 ViewModel을 여기에 등록
+        }
     }
 }

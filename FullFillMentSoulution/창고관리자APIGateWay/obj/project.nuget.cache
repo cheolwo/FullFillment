@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "PlqZ3HIpkY3ONeCUm7E0zCCmasIcJTjy3EMUKlptk190mexX7gEq9BcVFeJ1dDkBjlVn2rSVDIE8IfrcqcgwwA==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\창고관리자APIGateWay\\창고관리자APIGateWay.csproj",
+  "dgSpecHash": "QTmHLQE1QgV9eT1VSZGZklq7JUNdyYoEhlBudX/FkObJ0zA4IqCxPL3GmlVb9J33SBGrh69BLIY4lGmJ8TAzbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\창고관리자APIGateWay\\창고관리자APIGateWay.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.storage.blobs\\12.19.1\\azure.storage.blobs.12.19.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.storage.common\\12.18.1\\azure.storage.common.12.18.1.nupkg.sha512",
@@ -12,7 +12,7 @@
     "C:\\Users\\user\\.nuget\\packages\\dotnetcore.entityframeworkcore\\18.7.0\\dotnetcore.entityframeworkcore.18.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\dotnetcore.repositories\\18.7.0\\dotnetcore.repositories.18.7.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\fluentvalidation\\11.9.0\\fluentvalidation.11.9.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.3\\microsoft.aspnetcore.authorization.8.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.3\\microsoft.aspnetcore.components.8.0.3.nupkg.sha512",
@@ -35,7 +35,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\7.0.8\\microsoft.extensions.caching.stackexchangeredis.7.0.8.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.caching.stackexchangeredis\\8.0.3\\microsoft.extensions.caching.stackexchangeredis.8.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
@@ -56,7 +56,7 @@
     "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\quartz\\3.8.1\\quartz.3.8.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\rabbitmq.client\\6.5.0\\rabbitmq.client.6.5.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\stackexchange.redis\\2.7.33\\stackexchange.redis.2.7.33.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
@@ -79,82 +79,7 @@
     "C:\\Users\\user\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "경고를 오류로 처리: 13.0.1에서 12.0.1(으)로 다운그레이드된 패키지 AutoMapper을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n 창고관리자APIGateWay -> 계정Common -> AutoMapper (>= 13.0.1) \r\n 창고관리자APIGateWay -> AutoMapper (>= 12.0.1)",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "경고를 오류로 처리: 8.0.3에서 7.0.8(으)로 다운그레이드된 패키지 Microsoft.Extensions.Caching.StackExchangeRedis을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n 창고관리자APIGateWay -> 창고Common -> Common -> Microsoft.Extensions.Caching.StackExchangeRedis (>= 8.0.3) \r\n 창고관리자APIGateWay -> Microsoft.Extensions.Caching.StackExchangeRedis (>= 7.0.8)",
-      "libraryId": "Microsoft.Extensions.Caching.StackExchangeRedis",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "경고를 오류로 처리: 6.8.1에서 6.5.0(으)로 다운그레이드된 패키지 RabbitMQ.Client을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n 창고관리자APIGateWay -> 창고Common -> Common -> RabbitMQ.Client (>= 6.8.1) \r\n 창고관리자APIGateWay -> RabbitMQ.Client (>= 6.5.0)",
-      "libraryId": "RabbitMQ.Client",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "경고를 오류로 처리: 13.0.1에서 12.0.1(으)로 다운그레이드된 패키지 AutoMapper을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n 창고관리자APIGateWay -> 창고Common -> Common -> AutoMapper (>= 13.0.1) \r\n 창고관리자APIGateWay -> AutoMapper (>= 12.0.1)",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "경고를 오류로 처리: 12.2.0에서 12.0.1(으)로 다운그레이드된 패키지 MediatR을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n 창고관리자APIGateWay -> 창고Common -> Common -> MediatR (>= 12.2.0) \r\n 창고관리자APIGateWay -> MediatR (>= 12.0.1)",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "경고를 오류로 처리: 8.0.3에서 7.0.8(으)로 다운그레이드된 패키지 Microsoft.Extensions.Caching.StackExchangeRedis을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n 창고관리자APIGateWay -> 계정Common -> Common -> Microsoft.Extensions.Caching.StackExchangeRedis (>= 8.0.3) \r\n 창고관리자APIGateWay -> Microsoft.Extensions.Caching.StackExchangeRedis (>= 7.0.8)",
-      "libraryId": "Microsoft.Extensions.Caching.StackExchangeRedis",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "경고를 오류로 처리: 6.8.1에서 6.5.0(으)로 다운그레이드된 패키지 RabbitMQ.Client을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n 창고관리자APIGateWay -> 계정Common -> Common -> RabbitMQ.Client (>= 6.8.1) \r\n 창고관리자APIGateWay -> RabbitMQ.Client (>= 6.5.0)",
-      "libraryId": "RabbitMQ.Client",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    },
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "경고를 오류로 처리: 12.2.0에서 12.0.1(으)로 다운그레이드된 패키지 MediatR을(를) 발견했습니다. 프로젝트에서 패키지를 직접 참조하여 다른 버전을 선택하세요. \r\n 창고관리자APIGateWay -> 계정Common -> Common -> MediatR (>= 12.2.0) \r\n 창고관리자APIGateWay -> MediatR (>= 12.0.1)",
-      "libraryId": "MediatR",
-      "targetGraphs": [
-        "net8.0"
-      ]
-    }
-  ]
+  "logs": []
 }

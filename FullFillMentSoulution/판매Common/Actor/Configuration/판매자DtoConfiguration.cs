@@ -2,6 +2,7 @@
 using FluentValidation;
 using FluentValidation.Results;
 using FrontCommon.Actor;
+using 판매Common.Actor.Validator;
 using 판매Common.DTO;
 
 namespace 판매Common.Actor.Config04

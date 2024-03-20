@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aBE+j0i1FZXUK7Q2UTOftLFLx+n9VEKiUD6UK5+obUyTZzAwM8DarpdM34ShmMMaPOz/d52tkJfBM2GR4xKtMQ==",
+  "dgSpecHash": "ru/O4Es9nfrRsbsdxyfsu6gySboWmSTgXHSMACnL5uk2nfHBVsoErvCwQpycS2QIZCMyBfDF7sKINpwej1y7SA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\FullFillmentService\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\FullFillment\\FullFillMentSoulution\\주문QueryServer\\주문QueryServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.36.0\\azure.core.1.36.0.nupkg.sha512",
@@ -120,8 +120,6 @@
     "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\xamarin.essentials\\1.8.1\\xamarin.essentials.1.8.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\xamarin.forms\\5.0.0.2622\\xamarin.forms.5.0.0.2622.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\zstdsharp.port\\0.7.1\\zstdsharp.port.0.7.1.nupkg.sha512"
   ],
   "logs": []

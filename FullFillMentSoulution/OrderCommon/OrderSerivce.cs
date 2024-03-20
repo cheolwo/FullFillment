@@ -129,14 +129,14 @@ namespace OrderCommon.Services
 
         private async Task ProcessEventAndAddToDbContextAsync(IEvent @event)
         {
-            if (@event is Create주문Command create주문Command)
-            {
-                var result = await _mediator.Send(create주문Command);
-            }
-            else
-            {
-                // 다른 이벤트 타입에 대한 처리 로직 추가
-            }
+            //if (@event is Create주문Command create주문Command)
+            //{
+            //    var result = await _mediator.Send(create주문Command);
+            //}
+            //else
+            //{
+            //    // 다른 이벤트 타입에 대한 처리 로직 추가
+            //}
         }
     }
 }
