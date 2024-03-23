@@ -7,6 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="APIService\**" />
+    <Compile Remove="Handlr\**" />
+    <Content Remove="APIService\**" />
+    <Content Remove="Handlr\**" />
+    <EmbeddedResource Remove="APIService\**" />
+    <EmbeddedResource Remove="Handlr\**" />
+    <None Remove="APIService\**" />
+    <None Remove="Handlr\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
     <PackageReference Include="MediatR" Version="12.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.3" />
@@ -17,8 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="APIService\" />
-    <Folder Include="Handlr\" />
+    <ProjectReference Include="..\..\..\FullFillmentService\FullFillMentSoulution\OrderCommon\주문Common.csproj" />
   </ItemGroup>
 
 </Project>

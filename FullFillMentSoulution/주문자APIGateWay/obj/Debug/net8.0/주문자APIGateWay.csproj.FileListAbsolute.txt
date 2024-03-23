@@ -1,0 +1,11 @@
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.csproj.AssemblyReference.cache
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.AssemblyInfoInputs.cache
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.AssemblyInfo.cs
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.csproj.CoreCompileInputs.cache
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.sourcelink.json
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.dll
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\refint\주문자APIGateWay.dll
+C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\obj\Debug\net8.0\주문자APIGateWay.pdb
