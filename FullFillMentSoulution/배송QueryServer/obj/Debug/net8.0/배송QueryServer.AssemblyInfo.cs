@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("배송QueryServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01268d328395d3f82c158d7a08fe4e56e244abab")]
 [assembly: System.Reflection.AssemblyProductAttribute("배송QueryServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("배송QueryServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

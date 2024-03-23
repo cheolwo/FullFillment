@@ -2,5 +2,6 @@
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <ActiveDebugProfile>https</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\주문자APIGateWay\Properties\PublishProfiles\registry.hub.docker.com_cheolwo.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

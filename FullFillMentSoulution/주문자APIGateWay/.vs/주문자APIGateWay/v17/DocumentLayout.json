@@ -1,17 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\power\\OneDrive\\Desktop\\FullFillment\\FullFillMentSoulution\\\uC8FC\uBB38\uC790APIGateWay\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{BFEBC162-0930-4274-85CA-319BA1F7091E}|..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\\uC8FC\uBB38Server.csproj|c:\\users\\power\\onedrive\\desktop\\fullfillmentservice\\fullfillmentsoulution\\orderserver\\\uC8FC\uBB38server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFEBC162-0930-4274-85CA-319BA1F7091E}|..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\\uC8FC\uBB38Server.csproj|c:\\users\\power\\onedrive\\desktop\\fullfillmentservice\\fullfillmentsoulution\\orderserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F9E4A24-5F23-42B3-9536-2137915DB95A}|..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\\uC8FC\uBB38QueryServer\\\uC8FC\uBB38QueryServer.csproj|c:\\users\\power\\onedrive\\desktop\\fullfillmentservice\\fullfillmentsoulution\\\uC8FC\uBB38queryserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -19,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{f37f5141-198e-4181-9582-7b026ee8f915}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\power\\OneDrive\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\Program.cs",
-              "ToolTip": "C:\\Users\\power\\OneDrive\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T10:36:44.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\power\\OneDrive\\Desktop\\FullFillmentService\\FullFillMentSoulution\\\uC8FC\uBB38QueryServer\\Program.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\\uC8FC\uBB38QueryServer\\Program.cs",
-              "ToolTip": "C:\\Users\\power\\OneDrive\\Desktop\\FullFillmentService\\FullFillMentSoulution\\\uC8FC\uBB38QueryServer\\Program.cs",
-              "RelativeToolTip": "..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\\uC8FC\uBB38QueryServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-23T10:36:27.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "\uC8FC\uBB38Server",
-              "DocumentMoniker": "C:\\Users\\power\\OneDrive\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\\uC8FC\uBB38Server.csproj",
-              "RelativeDocumentMoniker": "..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\\uC8FC\uBB38Server.csproj",
-              "ToolTip": "C:\\Users\\power\\OneDrive\\Desktop\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\\uC8FC\uBB38Server.csproj",
-              "RelativeToolTip": "..\\..\\..\\FullFillmentService\\FullFillMentSoulution\\OrderServer\\\uC8FC\uBB38Server.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-23T10:36:24.845Z",
-              "EditorCaption": ""
             }
           ]
         }
