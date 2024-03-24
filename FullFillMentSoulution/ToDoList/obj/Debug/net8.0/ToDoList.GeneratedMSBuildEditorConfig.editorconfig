@@ -13,18 +13,18 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ToDoList
-build_property.ProjectDir = C:\Users\power\OneDrive\Desktop\FullFillment\FullFillMentSoulution\ToDoList\
+build_property.ProjectDir = C:\Users\user\Desktop\FullFillment\FullFillMentSoulution\ToDoList\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/power/OneDrive/Desktop/FullFillment/FullFillMentSoulution/ToDoList/App.axaml]
+[C:/Users/user/Desktop/FullFillment/FullFillMentSoulution/ToDoList/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/power/OneDrive/Desktop/FullFillment/FullFillMentSoulution/ToDoList/Views/AddItemView.axaml]
+[C:/Users/user/Desktop/FullFillment/FullFillMentSoulution/ToDoList/Views/AddItemView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/power/OneDrive/Desktop/FullFillment/FullFillMentSoulution/ToDoList/Views/MainWindow.axaml]
+[C:/Users/user/Desktop/FullFillment/FullFillMentSoulution/ToDoList/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[C:/Users/power/OneDrive/Desktop/FullFillment/FullFillMentSoulution/ToDoList/Views/ToDoListView.axaml]
+[C:/Users/user/Desktop/FullFillment/FullFillMentSoulution/ToDoList/Views/ToDoListView.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml

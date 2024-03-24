@@ -64,7 +64,7 @@ namespace IdentityServerSample.Controllers
             }
 
             // 로그인 실패
-            // 적절한 처리를 수행하거나 적절한 응답을 반환합니다.
+            // 적절한 처리를 수행하거나 적절한 응답을 반환합니다. asdfasdfasdfa
             return BadRequest("Invalid username or password.");
         }
         private List<Claim> GetClaimsFromToken(string token)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NaverCommon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01268d328395d3f82c158d7a08fe4e56e244abab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NaverCommon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NaverCommon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
